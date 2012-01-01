@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ Main\ method\ which\ runs\ the\ NearestNeighbor\ and\ k-NearestNeighbor\ algorithms\ and\ prints\ results.\n\ @param\ args\ The\ arguements,\ the\ 1st\ and\ only\ one\ which\ should\ be\ the\ dataset.\n\ @throws\ IOException\ Exception\ if\ the\ file\ is\ not\ found\n\ @throws\ ArrayIndexOutOfBoundsException\ Exception\ which\ occurs\ if\ 1\ comman\ line\ arguement\ was\ not\ entered\n
+comment1.params=filename
+comment1.target=void\ readFile(java.lang.String)
+comment1.text=\n\ Reads\ one\ line\ of\ the\ data\ file\ at\ a\ time\n\ @param\ filename\ the\ name\ of\ the\ dataset,\ which\ is\ wdbc.data\ by\ default\n
+comment2.params=line
+comment2.target=void\ parseLine(java.lang.String)
+comment2.text=\ \ \n\ Takes\ one\ line\ of\ data\ at\ a\ time,\ and\ parses\ the\ contents\ into\ an\ array\n\ @param\ line\ the\ string\ of\ text\ to\ parse\ and\ put\ into\ the\ array.\ contains\ 32\ items\ seperated\ by\ commas.\n
+numComments=3
